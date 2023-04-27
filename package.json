@@ -33,7 +33,6 @@
     "eslint": "^8.27.0",
     "eslint-config-next": "^13.0.3",
     "node-fetch": "^3.3.0",
-    "postcss": "^8.4.23",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
     "slice-machine-ui": "^1.0.1",
