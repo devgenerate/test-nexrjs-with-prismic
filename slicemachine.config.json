@@ -1,0 +1,6 @@
+{
+  "libraries": ["./slices"],
+  "adapter": "@slicemachine/adapter-next",
+  "repositoryName": "charming-flaons-3csx3i",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
